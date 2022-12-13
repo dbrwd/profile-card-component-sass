@@ -31,7 +31,7 @@ A profile card component project built using Sass and implementing the BEM metho
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live site: [GitHub Pages](https://dbrwd.github.io/profile-card-component-sass/)
 
 ### Built with
 
@@ -61,4 +61,4 @@ In future projects I would like to focus on improving my responsive design skill
 
 - My Github - [dbrwd](https://github.com/dbrwd)
 - Frontend Mentor - [@dbrwd](https://www.frontendmentor.io/profile/dbrwd)
-- LinkedIn - [](https://www.linkedin.com/in/rubendebrun/)
+- LinkedIn - [@rubendebrun](https://www.linkedin.com/in/rubendebrun/)
